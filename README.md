@@ -9,7 +9,7 @@ buy
 What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino:
 1
 I have enough resources, making you a coffee!
-Write action (buy, fill, take, remaining, exit):
+Write action (buy, fill, take, remaining, exit): 
 remaining
 The coffee machine has:
 150 ml of water
