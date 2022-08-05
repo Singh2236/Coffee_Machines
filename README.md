@@ -2,7 +2,7 @@
  
 #### Console anf functionalities
 
-```` java console
+```` shell
 C:\Users\navka\.gradle\jdks\jdk-17.0.1+12\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.3\lib\idea_rt.jar=58772:C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\navka\IdeaProjects\Coffee_Machines\out\production\Coffee_Machines machine.CoffeeMachine
 Write action (buy, fill, take, remaining, exit):
 buy
